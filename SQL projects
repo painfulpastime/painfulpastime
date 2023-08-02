@@ -2,7 +2,7 @@ PROJECT DESCRIPTION: Porch & Posey is a fictional paper company's sales data for
 
 The questions attempted are from the SQL course on Udacity using PostgreSQL.
 
-
+```sql
 
 1.  find the average number of events for each channel per day.
 
@@ -215,4 +215,4 @@ FROM sales_reps s
 FULL OUTER JOIN accounts a
 ON s.id = a.sales_rep_id
 WHERE s.id IS NULL OR a.sales_rep_id IS NULL
-
+```

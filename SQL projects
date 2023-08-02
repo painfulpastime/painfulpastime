@@ -1,4 +1,3 @@
-PROJECT DESCRIPTION: Porch & Posey is a fictional...with the following schema 
-
+PROJECT DESCRIPTION: Porch & Posey is a fictional paper company's sales data for different paper types (standard, gloss, poster), customer accounts, order transactions, sales people and region. 
 
 The questions attempted are from the SQL course on Udacity using PostgreSQL.
